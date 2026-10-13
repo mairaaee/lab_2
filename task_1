@@ -57,9 +57,9 @@
         <tr>
             <th>UMAIRAH</th>
             <td>UMAIRAH BINTI AHMAD TARMIZI</td>
-            <th>Photo</th>
-            <td rowspan="4">
-                <img src="photo.jpeg" alt="My Photo">
+            <td width="160" align="center" valign="top">
+            <img src="c:\Users\pc\OneDrive\Documents\ai250102.jpg" alt="My Photo" width="150" 
+            style="height: auto; max-width: 100%;">
             </td>
         </tr>
 
